@@ -25093,7 +25093,7 @@
 				React.createElement(
 					'h1',
 					{ className: 'text-center' },
-					'Examples'
+					'Examples Tét'
 				),
 				React.createElement(
 					'p',
